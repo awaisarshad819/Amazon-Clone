@@ -14,7 +14,7 @@ Welcome to the Amazon Home Page Clone project! This project demonstrates the rec
 
 This project is a clone of the Amazon home page, created to practice and improve my knowledge of HTML and CSS. The project replicates the layout and styling of the Amazon home page as closely as possible without using any JavaScript for functionality.
 
-![Amazon Clone Screenshot](./Amazon-clone/Assets/images/Amazon-clone.png)
+![Amazon Clone Screenshot](./Amazon-Clone/Assets/images/Amazon-clone.png)
 
 ## Features
 
